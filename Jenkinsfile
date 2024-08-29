@@ -40,4 +40,3 @@ node{
    sh 'docker run -d -p 8090:8080 --name tomcattest saidamo/myweb:0.0.2' 
    }
 }
-}
